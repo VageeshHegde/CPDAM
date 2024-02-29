@@ -28,13 +28,6 @@ nav a {
 
 #hero {
     background-color: #eee;
-    padding: 30px;
-    text-align: center;
-    display: flex;
-    flex-direction: row;
-    width: 100%;
-    align-items: center;
-    /*height: 30vh;*/
 }
 
 #hero img{
